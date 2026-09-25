@@ -38,4 +38,10 @@ O objetivo principal deste trabalho é analisar e diagnosticar barreiras de usab
 
 ## 📌 Documentos e anexos
 
-Relatório 
+[Relatório Completo](https://github.com/deborahmonaco/pos-purj-MVP2/blob/45b3724f448e0ae21092e1e124f1dcbcbad6528b/MVP2_IHC_ModuloAvaliaca_Deborah_Freitas.pdf)
+[Roteiro completo Teste de Usabilidade](https://github.com/deborahmonaco/pos-purj-MVP2/blob/45b3724f448e0ae21092e1e124f1dcbcbad6528b/MVP2_RoteiroTestedeUsabilidade_Deborah_Freitas.pdf)
+TCLE
+[participante 03](https://github.com/deborahmonaco/pos-purj-MVP2/blob/45b3724f448e0ae21092e1e124f1dcbcbad6528b/TCLE-03.jpeg)
+[participante 02](https://github.com/deborahmonaco/pos-purj-MVP2/blob/45b3724f448e0ae21092e1e124f1dcbcbad6528b/TCLE-02.jpeg)
+[participante 01](https://github.com/deborahmonaco/pos-purj-MVP2/blob/45b3724f448e0ae21092e1e124f1dcbcbad6528b/TCLE-01.jpeg)
+[TCLE completo](https://github.com/deborahmonaco/pos-purj-MVP2/blob/45b3724f448e0ae21092e1e124f1dcbcbad6528b/MVP2_TCLE.pdf)
